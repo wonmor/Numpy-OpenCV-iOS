@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Python-iOS",
+        "repositoryURL": "https://github.com/kewlbear/Python-iOS.git",
+        "state": {
+          "branch": null,
+          "revision": "61e4649cba5b5ef2c011c3ced83aadc20df0d802",
+          "version": "0.1.1-b20230423-053002"
+        }
+      },
+      {
+        "package": "PythonKit",
+        "repositoryURL": "https://github.com/pvieito/PythonKit.git",
+        "state": {
+          "branch": "master",
+          "revision": "2615c8921d58cf46117291f7aae280fbe6b56622",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
