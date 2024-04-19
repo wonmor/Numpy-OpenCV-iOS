@@ -1,4 +1,4 @@
-# NumPy-iOS
+# NumPy-OpenCV-iOS
 
 This swift package enables you to use NumPy in your iOS apps.
 
