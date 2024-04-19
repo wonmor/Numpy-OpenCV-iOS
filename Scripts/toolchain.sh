@@ -1,4 +1,4 @@
-git clone --depth 1 https://github.com/kewlbear/kivy-ios.git
+git clone --depth 1 https://github.com/prasadmadanayake/kivy-ios
 cd kivy-ios
 
 python3 -m venv venv
